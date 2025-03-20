@@ -11,6 +11,10 @@ This project generates and analyzes real-world datasets using NumPy, including:
 - Statistical calculations (mean, max, min)  
 - Data visualization using Matplotlib
 
+
+Before running the project, install the necessary modules using **Command Prompt (CMD), PowerShell, or your IDE's terminal**: 
+
+
 # 🔧 Need Modules
 
 -----------------------------------
@@ -26,7 +30,7 @@ This project generates and analyzes real-world datasets using NumPy, including:
 
 * Open the run.bat file to execute the project.
 
-* If the run.bat file does not work, please ensure that your IDE is up to date. 
+* ⚠️ If the run.bat file does not work, please ensure that your IDE is up to date. 
   
 -----------------------------------
 
@@ -47,7 +51,11 @@ Bu proje, NumPy kullanarak gerçek dünya veri kümelerini oluşturur ve analiz 
 - İstatistiksel hesaplamalar (ortalama, maks, min)  
 - Matplotlib kullanarak veri görselleştirme  
 
-# 🔧 Need Modules - Gereken Modüller:
+
+Projeyi çalıştırmadan önce **Komut İstemi (CMD), PowerShell veya IDE'nizin terminalini** kullanarak gerekli modülleri yükleyin:  
+
+
+# 🔧 Gereken Modüller:
 
 -----------------------------------
 * ``` pip install numpy ```
@@ -62,7 +70,7 @@ Bu proje, NumPy kullanarak gerçek dünya veri kümelerini oluşturur ve analiz 
 
 * Projeyi çalıştırmak için run.bat dosyasını açın.
 
-* Eğer run.bat dosyası çalışmazsa, lütfen IDE'nizin güncel olduğundan emin olun. 
+* ⚠️ Eğer run.bat dosyası çalışmazsa, lütfen IDE'nizin güncel olduğundan emin olun. 
   
 -----------------------------------
 
