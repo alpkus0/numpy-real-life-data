@@ -71,4 +71,4 @@ Projeyi çalıştırmadan önce **Komut İstemi (CMD), PowerShell veya IDE'nizin
   
 -----------------------------------
 
-## Yıldız vermeyi unutmayın. 🌟🌟🌟
+* Yıldız vermeyi unutmayın. 🌟🌟🌟
