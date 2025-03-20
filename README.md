@@ -24,7 +24,9 @@ This project generates and analyzes real-world datasets using NumPy, including:
 
 * Download or clone this repository.
 
-* Open the Run.bat file to execute the project.
+* Open the run.bat file to execute the project.
+
+* If the run.bat file does not work, please ensure that your IDE is up to date. 
   
 -----------------------------------
 
@@ -58,7 +60,9 @@ Bu proje, NumPy kullanarak gerçek dünya veri kümelerini oluşturur ve analiz 
 
 * Bu depoyu indirin veya klonlayın.
 
-* Projeyi çalıştırmak için Run.bat dosyasını açın.
+* Projeyi çalıştırmak için run.bat dosyasını açın.
+
+* Eğer run.bat dosyası çalışmazsa, lütfen IDE'nizin güncel olduğundan emin olun. 
   
 -----------------------------------
 
