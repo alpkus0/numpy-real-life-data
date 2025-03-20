@@ -38,7 +38,7 @@ Before running the project, install the necessary modules using **Command Prompt
 
 -----------------------------------
 
-# TURKISH
+# TÜRKÇE
 
 # 📊 NumPy ile Gerçek Hayat Veri Simülasyonu
 
