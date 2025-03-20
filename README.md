@@ -31,7 +31,8 @@ Before running the project, install the necessary modules using **Command Prompt
 * Open the run.bat file to execute the project.
 
 * ⚠️ If the run.bat file does not work, please ensure that your IDE is up to date. 
-  
+
+-----------------------------------
 * Don't forget to give stars. 🌟🌟🌟
 -----------------------------------
 # TÜRKÇE
