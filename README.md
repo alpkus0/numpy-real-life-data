@@ -1,4 +1,4 @@
-# numpy-real-life-data
+# ENGLISH
 # 📊 Real-Life Data Simulation with NumPy
 
 This project generates and analyzes real-world datasets using NumPy, including:  
@@ -38,6 +38,7 @@ Before running the project, install the necessary modules using **Command Prompt
 
 -----------------------------------
 
+# TURKISH
 
 # 📊 NumPy ile Gerçek Hayat Veri Simülasyonu
 
