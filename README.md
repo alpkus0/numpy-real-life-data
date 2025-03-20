@@ -32,8 +32,7 @@ Before running the project, install the necessary modules using **Command Prompt
 
 * ⚠️ If the run.bat file does not work, please ensure that your IDE is up to date. 
   
------------------------------------
-## Don't forget to give stars. 🌟🌟🌟
+* Don't forget to give stars. 🌟🌟🌟
 -----------------------------------
 # TÜRKÇE
 # 📊 NumPy ile Gerçek Hayat Veri Simülasyonu
