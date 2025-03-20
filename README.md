@@ -30,7 +30,7 @@ This project generates and analyzes real-world datasets using NumPy, including:
 
 ## Don't forget to give stars. 🌟🌟🌟
 
-
+-----------------------------------
 
 
 # 📊 NumPy ile Gerçek Hayat Veri Simülasyonu
